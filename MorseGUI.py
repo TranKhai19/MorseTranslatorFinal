@@ -1,7 +1,6 @@
 import tkinter as tk
 from tkinter import messagebox
 import pyaudio
-import wave
 
 from MorseTranslator import MorseTranslator
 
